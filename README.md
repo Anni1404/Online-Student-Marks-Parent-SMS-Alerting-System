@@ -98,7 +98,7 @@ We welcome contributions to the Online Student Marks Parent SMS Alerting System.
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
-If you have any questions or suggestions, please feel free to contact us at [your-email@example.com].
+If you have any questions or suggestions, please feel free to contact us at [ankitraj14052003@example.com].
 
 ---
 
