@@ -23,7 +23,7 @@ The Online Student Marks Parent SMS Alerting System is a web-based application t
 
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Python (Django)
+- **Backend**: Python (Flask)
 - **Database**: SQLite (default), can be configured to use other databases like PostgreSQL or MySQL
 - **SMS Gateway**: Twilio API
 
